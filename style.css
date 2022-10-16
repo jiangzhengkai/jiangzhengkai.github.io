@@ -22,7 +22,7 @@ p {line-height: 1.5em;}
 .bulletpoints {line-height: 1.5em;}
 .row {box-sizing: border-box;}
 .row-media {display: block; float: left; width: 120px; height: 90px; background-position: center; background-size: contain; background-repeat: no-repeat;}
-.row-text {display: block; float: left; margin-left: 10px; line-height: 1.5em; max-width: 640px;}
+.row-text {display: block; float: left; margin-left: 15px; line-height: 1.5em; max-width: 640px;}
 .row-text span {line-height: inherit;}
 .clearfix {content: ""; clear: both; display: table;}
 .publication {margin-bottom: 16px; padding-left: 0px;}
