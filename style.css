@@ -2,8 +2,8 @@ html {-webkit-text-size-adjust: 100%; -moz-text-size-adjust: 100%; -ms-text-size
 body {background-color: #fdfdfd; color: #234; margin: 0; font-size: 13px;}
 h1 {margin-bottom: 32px; font-size: 2.6em;}
 h2 {margin-top: 48px;}
-h1 {color: rgb(8, 8, 8);}
-h2 {color: rgb(0, 0, 249);}
+h1 {color: rgb(3, 15, 70);}
+h2 {color: rgb(0, 0, 255);}
 h3, h4, h5 {color: #345;}
 h1, h2, h3, h4, h5, a, p, span, body, div {font-weight: normal; font-family: 'Lato', Verdana, Helvetica, sans-serif;}
 .header {background: linear-gradient(to bottom, #fdfdfd 10%, #f4f4f8 90%); width: 100%; padding-top: 16px; padding-bottom: 32px;}
@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, a, p, span, body, div {font-weight: normal; font-family: 'La
 .header-profile-picture {width: 100px; height: 100px; margin-right: 12px; border-radius: 50%; background-image: url(files/me.jpeg); background-position: center; background-size: contain;}
 .content {max-width: 748px; padding-left: 16px; padding-right: 16px; margin: auto; margin-top: 48px;}
 .hr {width: 100%; height: 1px; margin: 48px 0; background-color: #d6dbdf;}
-a {color: #302833; text-decoration: none;}
+a {color: #758cd6; text-decoration: none;}
 a:focus, a:hover {color: #f09228;}
 p {line-height: 1.5em;}
 .nobreak {white-space: nowrap;}
